@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: ‘Arial’;
+    background: (green);
+    color: (lightpink);
+    background-color: lightpink;
+}
+
+img {
+    background-color: lightpink;
+}
+
+#dinosaur {
+    color: aqua;
+}
+
+#rabbit {
+    color: rgb(170, 47, 186);
+}
